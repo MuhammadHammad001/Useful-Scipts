@@ -7,7 +7,7 @@ if [ $# -lt 1 ]; then
 fi
 
 document_file=""
-num_parts=6  # Default number of parts
+num_parts=2  # Default number of parts
 
 while [[ "$#" -gt 0 ]]; do
   case $1 in
