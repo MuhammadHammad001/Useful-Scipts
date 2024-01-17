@@ -4,7 +4,7 @@
 # Useful-Scipts
 This repository includes the scripts for important day-day tasks in Ubuntu
 ## How to clone and use this
-  Simply, press `ctrl+shift+N` and the terminal will be opened. Then, simple run the following command to clone this repository:
+  Simply, press `ctrl+Alt+T` and the terminal will be opened. Then, simple run the following command to clone this repository:
   ```bash
     git clone https://github.com/MuhammadHammad001/Useful-Scipts
   ```
