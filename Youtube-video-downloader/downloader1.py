@@ -28,7 +28,7 @@ class YoutubeDownloaderApp(QWidget):
 
     def init_ui(self,layout):
 
-        self.label = QLabel("Welcome to the Youtube Videos and Playlist Downloader")
+        self.label = QLabel("Welcome to the Youtube Videos Downloader")
         self.label.setFont(QFont('Arial', 14, QFont.Bold))
         layout.addWidget(self.label)
 
